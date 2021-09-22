@@ -119,6 +119,7 @@ mmdet/.mim
 work_dirs/
 work_dirs
 checkpoints
+configs_bnn
 
 # Pytorch
 *.pth
